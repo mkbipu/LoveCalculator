@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Nov 05 02:22:30 BDT 2018
+0.baseType=DIRECTORY
+0.base=F\:\\LoveCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

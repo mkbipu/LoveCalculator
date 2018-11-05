@@ -1,0 +1,4 @@
+#Mon Nov 05 23:14:20 BDT 2018
+base.0=F\:\\LoveCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
